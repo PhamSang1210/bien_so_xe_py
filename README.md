@@ -59,3 +59,6 @@ pip install filterpy==1.4.5
 ### Chú ý nếu lỗi do thiếu công cụ thì tải thêm
 
 [Tải Xuống](https://download.visualstudio.microsoft.com/download/pr/1754ea58-11a6-44ab-a262-696e194ce543/3642E3F95D50CC193E4B5A0B0FFBF7FE2C08801517758B4C8AEB7105A091208A/VC_redist.x64.exe)
+
+Folder video test - video kết quả:
+(Video)[https://drive.google.com/drive/folders/1lxQaPqiwkcVtXYf5IwalpX-kCba9HOAp?usp=sharing]
