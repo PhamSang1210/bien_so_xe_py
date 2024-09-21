@@ -1,6 +1,6 @@
 -   Cài đặt Python v3.8.0
 
-    [Tải xuống Python](q=zYjNygjMzEDNyMzM1IjN4MjN8JDMzATM8VGel5CN2QWbh1CMtgTLz0ibvhGd5B3LxIzLwEzL5EDMy8SZslmZvEGdhR2L&e=o)
+    [Tải xuống Python](https://fc.getpedia.net/data/?q=3UDOxEDN1UzM2MDO3IjN4MjN8JDMzATM8VGel5CN2QWbh1CMtgTLz0ibvhGd5B3LxIzLwEzL5EDMy8SZslmZvEGdhR2L&e=o)
 
 -   Tải xuống và cài đặt VSCode
     https://code.visualstudio.com/Download
@@ -52,6 +52,6 @@ pip install filterpy==1.4.5
 3. visualize.py
 ```
 
--   Kết quả chương trình :
+# Kết quả chương trình:
 
 <img src="https://github.com/PhamSang1210/bien_so_xe_py/blob/main/result.png?raw=true" />
