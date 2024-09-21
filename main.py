@@ -12,6 +12,7 @@ mot_tracker = Sort()
 # load models
 coco_model = YOLO('yolov8n.pt')
 license_plate_detector = YOLO('./models/license_plate_detector.pt')
+
 # load video
 cap = cv2.VideoCapture('./sample.mp4')
 
@@ -23,7 +24,7 @@ ret = True
 while ret:
     frame_nmr += 1
     ret, frame = cap.read()
-    if ret and frame_nmr < 1:
+    if ret and frame_nmr < 1000:
         results[frame_nmr] = {}
         # detect vehicles
         detections = coco_model(frame)[0]
