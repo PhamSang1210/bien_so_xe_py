@@ -52,6 +52,14 @@ pip install filterpy==1.4.5
 3. visualize.py
 ```
 
+<<<<<<< HEAD
+
 # Kết quả chương trình:
+
+=======
+
+# **_Kết quả chương trình_** :
+
+> > > > > > > e0cd520035ff3bd64db685a09c618b430e632b18
 
 <img src="https://github.com/PhamSang1210/bien_so_xe_py/blob/main/result.png?raw=true" />
