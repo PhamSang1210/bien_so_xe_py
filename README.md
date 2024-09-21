@@ -51,7 +51,6 @@ pip install filterpy==1.4.5
 2. add_missing_data.py
 3. visualize.py
 ```
-
--   Kết quả chương trình :
+# **_Kết quả chương trình_** :
 
 <img src="https://github.com/PhamSang1210/bien_so_xe_py/blob/main/result.png?raw=true" />
